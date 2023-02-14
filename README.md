@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/BahnMiFPS/github-user-search)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://bahnmifps-github-search.netlify.app/)
 
 ### Built with
 
