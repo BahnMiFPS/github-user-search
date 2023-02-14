@@ -1,15 +1,11 @@
 import React from "react"
 import Moment from "react-moment"
-import company from "./assets/icon-company.svg"
-import location from "./assets/icon-location.svg"
-import twitter from "./assets/icon-twitter.svg"
-import website from "./assets/icon-website.svg"
 
 function Main({ data }) {
 	return (
 		<div className="main">
 			<div className="left">
-				<img src={data.avatar_url} />
+				<img src={data.avatar_url} className="avatar" />
 			</div>
 			<div className="right">
 				<div className="author">

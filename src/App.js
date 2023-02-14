@@ -1,7 +1,6 @@
 import "./App.css"
 import React, { useState, useEffect, createContext } from "react"
 
-import avatar from "./assets/Bitmap.png"
 import Header from "./Header"
 import Form from "./Form"
 import Main from "./Main"

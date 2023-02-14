@@ -1,6 +1,5 @@
 import React from "react"
-import sun from "./assets/icon-sun.svg"
-import moon from "./assets/icon-moon.svg"
+
 function Header({ theme, toggleTheme }) {
 	return (
 		<div className="header">
