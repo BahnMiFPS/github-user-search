@@ -75,6 +75,7 @@ body {
 }
 
 .github-app {
+	max-width: 730px;
 	display: flex;
 	flex-direction: column;
 	margin: 0 auto;
@@ -228,9 +229,8 @@ a:hover,
 
 .left img {
 	/* avatar */
-	width: 100%;
+	width: 120px;
 	border-radius: 50%;
-	min-width: 100%;
 }
 
 .right {
